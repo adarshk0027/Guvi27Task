@@ -1,0 +1,21 @@
+.UserProfile{
+    margin-top: 2rem;
+    
+}
+.profileContainer{
+    background-color: #d3bdbd86;
+    width: 18rem;
+}
+.img{
+    width: 15rem;
+}
+.img img{
+    width: 13rem;
+    height: auto;
+}
+.buttons{
+    padding-left: 1rem;
+}
+.Link{
+    margin-left: 2rem;
+}
